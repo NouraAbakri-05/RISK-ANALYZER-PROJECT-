@@ -1,0 +1,17 @@
+[
+    {
+        "device_id": "door_lock",
+        "device_type": "door",
+        "ip": "172.16.0.251",
+        "status": "failed",
+        "failed_attempts": 4,
+        "timestamp": "2026-04-20 15:02:14",
+        "risk_score": 1.0,
+        "risk_level": "high",
+        "reasons": [
+            "Too many failed attempts",
+            "Unknown IP address",
+            "Login failed"
+        ]
+    }
+]

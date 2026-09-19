@@ -1,0 +1,8 @@
+[
+    {
+        "id": "door_lock",
+        "ip": "192.168.1.50",
+        "password": "noura",
+        "device_type": "door"
+    }
+]
